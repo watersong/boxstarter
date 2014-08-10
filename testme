@@ -1,0 +1,2 @@
+Update-ExecutionPolicy Unrestricted
+cinst 7zip
