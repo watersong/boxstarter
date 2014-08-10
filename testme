@@ -1,2 +1,3 @@
+Set-ExplorerOptions -showHidenFilesFoldersDrives -showProtectedOSFiles -showFileExtensions
 Update-ExecutionPolicy Unrestricted
 cinst 7zip
