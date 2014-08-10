@@ -1,1 +1,0 @@
-Set-WindowsExplorerSettings -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions -EnableShowFullPathInTitleBar
