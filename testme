@@ -1,0 +1,3 @@
+Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions -EnableShowFullPathInTitleBar
+Update-ExecutionPolicy Unrestricted
+cinst 7zip
