@@ -1,0 +1,10 @@
+Update-ExecutionPolicy Unrestricted
+Set-ExplorerOptions -showHidenFilesFoldersDrives -showFileExtensions
+Enable-RemoteDesktop
+
+cinst javaruntime
+cinst adobereader
+cinst GoogleChrome
+cinst CutePDF
+cinst adblockplusChrome
+cinst picasa
