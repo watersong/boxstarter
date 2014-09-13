@@ -1,5 +1,5 @@
 Update-ExecutionPolicy Unrestricted
-Set-ExplorerOptions -showHidenFilesFoldersDrives -showFileExtensions
+Set-ExplorerOptions -showHiddenFilesFoldersDrives -showFileExtensions
 Enable-RemoteDesktop
 
 cinst javaruntime
